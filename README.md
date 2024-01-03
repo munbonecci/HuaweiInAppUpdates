@@ -1,7 +1,7 @@
 <h1 align="center">Huawei InApp Updates</h1> 
 
 <p align="center">
-This app was created to learn more about In App updates in Huawei devices
+This app was created to learn more about In App updates in Huawei devices.
 </p>
 
 ## Installation
@@ -31,8 +31,6 @@ This project is maintained by:
 - Jetpack
     - [Compose](https://developer.android.com/jetpack/compose?gclid=CjwKCAiAzKqdBhAnEiwAePEjkkbfP8b_r6c57F3jtdwOjxWpBbNOXVmpSnAUu4HKCid7KtSvfiiYeRoC1wYQAvD_BwE&gclsrc=aw.ds)
         - Android’s recommended modern toolkit for building native UI.
-    - [Navigation Component](https://developer.android.com/guide/navigation/navigation-getting-started)
-        - Handling and manage the navigation in the app.
 
 ## How I run the app?
 
